@@ -16,7 +16,7 @@ MonoBehaviour:
   prefabs:
   - allowedLayers:
       serializedVersion: 2
-      m_Bits: 55
+      m_Bits: 311
     prefab: {fileID: 1270475122000594, guid: 277d55adecf23fd438175a84baab4962, type: 3}
     possibility: 0.23
     scaleMin: 0.8
@@ -27,7 +27,7 @@ MonoBehaviour:
     maxSlopeAngle: 45
   - allowedLayers:
       serializedVersion: 2
-      m_Bits: 55
+      m_Bits: 311
     prefab: {fileID: 1769804551437536, guid: 0bbb5a565daf0b24db2d90aeb99aa8b3, type: 3}
     possibility: 0.21
     scaleMin: 0.8
@@ -38,7 +38,7 @@ MonoBehaviour:
     maxSlopeAngle: 45
   - allowedLayers:
       serializedVersion: 2
-      m_Bits: 55
+      m_Bits: 311
     prefab: {fileID: 1775142227453386, guid: dabc3c370470e2b4a8b0235afd00c42c, type: 3}
     possibility: 0.89
     scaleMin: 0.8
