@@ -9,7 +9,7 @@ public class TeleportObject : MonoBehaviour
 
 	private void OnTriggerEnter(Collider other)
 	{
-        FirstPersonController fpsController = other.GetComponent<FirstPersonController>();
+        ThirdPersonController fpsController = other.GetComponent<ThirdPersonController>();
 
         if (fpsController != null)
         {

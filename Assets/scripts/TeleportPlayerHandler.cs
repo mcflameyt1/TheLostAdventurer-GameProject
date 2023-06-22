@@ -3,7 +3,7 @@ using UnityEngine;
 public class TeleportPlayerHandler : MonoBehaviour
 {
     public TeleportPosition CrossSceneTeleportPosition;
-    public FirstPersonController PlayerController;
+    public ThirdPersonController PlayerController;
 
     private void Awake()
     {
