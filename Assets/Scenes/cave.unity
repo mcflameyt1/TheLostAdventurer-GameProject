@@ -31971,7 +31971,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CrossSceneTeleportPosition: {fileID: 11400000, guid: 1b17b38794ea4b045ae7cfde61482ca3, type: 2}
-  PlayerController: {fileID: 0}
+  PlayerController: {fileID: 1956446471}
 --- !u!4 &898938946
 Transform:
   m_ObjectHideFlags: 0
