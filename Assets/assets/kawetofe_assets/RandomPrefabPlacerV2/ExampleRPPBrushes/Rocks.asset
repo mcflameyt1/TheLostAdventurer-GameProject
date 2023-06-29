@@ -10,19 +10,41 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab40fa445ff22fc479be407303fecb08, type: 3}
-  m_Name: Rocks
+  m_Name: rocks
   m_EditorClassIdentifier: 
   Notes: "This script needs Random Prefab Placer Asset to work \n https://assetstore.unity.com/packages/tools/terrain/random-prefab-placer-104765 "
   prefabs:
   - allowedLayers:
       serializedVersion: 2
-      m_Bits: 311
-    prefab: {fileID: 1691437701069892, guid: ec433e437d9903a49a89c55ba0bfcd38, type: 3}
-    possibility: 0.69
-    scaleMin: 0.5120231
-    scaleMax: 5.039693
+      m_Bits: 55
+    prefab: {fileID: 1290125285081394, guid: dc49f1ca5c333b5479d95626e8704edb, type: 3}
+    possibility: 0.23
+    scaleMin: 0.8
+    scaleMax: 1.2
     placementOffset: {x: 0, y: 0, z: 0}
-    lockedRotations: {x: 0, y: 0, z: 0}
+    lockedRotations: {x: 1, y: 0, z: 1}
+    useNormalsForRotation: 0
+    maxSlopeAngle: 45
+  - allowedLayers:
+      serializedVersion: 2
+      m_Bits: 55
+    prefab: {fileID: 4894849518924458267, guid: 00e4f5e893051fd47bee44a57b8ec2a8, type: 3}
+    possibility: 0.21
+    scaleMin: 0.8
+    scaleMax: 3.263835
+    placementOffset: {x: 0, y: 0, z: 0}
+    lockedRotations: {x: 1, y: 0, z: 1}
+    useNormalsForRotation: 0
+    maxSlopeAngle: 45
+  - allowedLayers:
+      serializedVersion: 2
+      m_Bits: 55
+    prefab: {fileID: 1486726653596827074, guid: d0d546f24b13a5c40856950fa9092eb6, type: 3}
+    possibility: 0.89
+    scaleMin: 0.8
+    scaleMax: 1.2
+    placementOffset: {x: 0, y: 0, z: 0}
+    lockedRotations: {x: 1, y: 0, z: 1}
     useNormalsForRotation: 0
     maxSlopeAngle: 45
   objectsToPlace: 10
