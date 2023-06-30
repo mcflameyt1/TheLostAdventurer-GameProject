@@ -17,7 +17,7 @@ MonoBehaviour:
   - allowedLayers:
       serializedVersion: 2
       m_Bits: 55
-    prefab: {fileID: 1570965795006786, guid: 5df74a6ba6a1d5644bac17b28f2b0d54, type: 3}
+    prefab: {fileID: 1570965795006786, guid: 6b41c24e012326442909c803d2d3b5b4, type: 3}
     possibility: 0.23
     scaleMin: 0.8
     scaleMax: 1.2
@@ -28,7 +28,7 @@ MonoBehaviour:
   - allowedLayers:
       serializedVersion: 2
       m_Bits: 55
-    prefab: {fileID: 9069115365609291303, guid: ceb4ffbf1a1cc1d468e95d37f4a8c466, type: 3}
+    prefab: {fileID: 4661435515762455780, guid: 6e11e5c1f94f7a24eb8cecdbe4281ab9, type: 3}
     possibility: 0.21
     scaleMin: 0.8
     scaleMax: 3.263835
@@ -39,7 +39,7 @@ MonoBehaviour:
   - allowedLayers:
       serializedVersion: 2
       m_Bits: 55
-    prefab: {fileID: 4661435515762455780, guid: e289bf5debb17f6459818c207d781953, type: 3}
+    prefab: {fileID: 9069115365609291303, guid: ceb4ffbf1a1cc1d468e95d37f4a8c466, type: 3}
     possibility: 0.89
     scaleMin: 0.8
     scaleMax: 1.2
